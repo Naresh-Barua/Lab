@@ -1,0 +1,13 @@
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\bin\Debug\netcoreapp3.1\lw7.exe
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\bin\Debug\netcoreapp3.1\lw7.deps.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\bin\Debug\netcoreapp3.1\lw7.runtimeconfig.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\bin\Debug\netcoreapp3.1\lw7.runtimeconfig.dev.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\bin\Debug\netcoreapp3.1\lw7.dll
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\bin\Debug\netcoreapp3.1\lw7.pdb
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\obj\Debug\netcoreapp3.1\lw7.csprojAssemblyReference.cache
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\obj\Debug\netcoreapp3.1\lw7.AssemblyInfoInputs.cache
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\obj\Debug\netcoreapp3.1\lw7.AssemblyInfo.cs
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\obj\Debug\netcoreapp3.1\lw7.csproj.CoreCompileInputs.cache
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\obj\Debug\netcoreapp3.1\lw7.dll
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\obj\Debug\netcoreapp3.1\lw7.pdb
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw7\lw7\obj\Debug\netcoreapp3.1\lw7.genruntimeconfig.cache
