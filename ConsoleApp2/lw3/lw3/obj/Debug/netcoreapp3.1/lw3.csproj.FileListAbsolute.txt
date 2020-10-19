@@ -1,0 +1,12 @@
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\obj\Debug\netcoreapp3.1\lw3.AssemblyInfoInputs.cache
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\obj\Debug\netcoreapp3.1\lw3.AssemblyInfo.cs
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\obj\Debug\netcoreapp3.1\lw3.csproj.CoreCompileInputs.cache
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\bin\Debug\netcoreapp3.1\lw3.exe
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\bin\Debug\netcoreapp3.1\lw3.deps.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\bin\Debug\netcoreapp3.1\lw3.runtimeconfig.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\bin\Debug\netcoreapp3.1\lw3.runtimeconfig.dev.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\bin\Debug\netcoreapp3.1\lw3.dll
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\bin\Debug\netcoreapp3.1\lw3.pdb
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\obj\Debug\netcoreapp3.1\lw3.dll
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\obj\Debug\netcoreapp3.1\lw3.pdb
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp2\lw3\lw3\obj\Debug\netcoreapp3.1\lw3.genruntimeconfig.cache
