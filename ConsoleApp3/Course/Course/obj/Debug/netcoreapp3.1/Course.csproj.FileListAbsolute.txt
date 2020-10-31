@@ -1,0 +1,13 @@
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\88018\Downloads\C#\LABS\ConsoleApp3\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
