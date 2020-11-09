@@ -1,0 +1,13 @@
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\bin\Debug\netcoreapp3.1\Account.exe
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\bin\Debug\netcoreapp3.1\Account.dll
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\bin\Debug\netcoreapp3.1\Account.pdb
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\obj\Debug\netcoreapp3.1\Account.dll
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\obj\Debug\netcoreapp3.1\Account.pdb
+C:\Users\88018\Downloads\C#\LABS\lw6\lw6\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache

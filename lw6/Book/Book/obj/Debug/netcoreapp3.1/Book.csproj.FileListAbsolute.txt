@@ -1,0 +1,13 @@
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\obj\Debug\netcoreapp3.1\Book.csprojAssemblyReference.cache
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\88018\Downloads\C#\LABS\lw6\Book\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache
