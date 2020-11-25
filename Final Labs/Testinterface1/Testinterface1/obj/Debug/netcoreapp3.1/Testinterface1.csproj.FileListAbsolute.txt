@@ -1,0 +1,13 @@
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\bin\Debug\netcoreapp3.1\Testinterface1.exe
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\bin\Debug\netcoreapp3.1\Testinterface1.deps.json
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\bin\Debug\netcoreapp3.1\Testinterface1.runtimeconfig.json
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\bin\Debug\netcoreapp3.1\Testinterface1.runtimeconfig.dev.json
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\bin\Debug\netcoreapp3.1\Testinterface1.dll
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\bin\Debug\netcoreapp3.1\Testinterface1.pdb
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\obj\Debug\netcoreapp3.1\Testinterface1.csprojAssemblyReference.cache
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\obj\Debug\netcoreapp3.1\Testinterface1.AssemblyInfoInputs.cache
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\obj\Debug\netcoreapp3.1\Testinterface1.AssemblyInfo.cs
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\obj\Debug\netcoreapp3.1\Testinterface1.csproj.CoreCompileInputs.cache
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\obj\Debug\netcoreapp3.1\Testinterface1.dll
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\obj\Debug\netcoreapp3.1\Testinterface1.pdb
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Testinterface1\Testinterface1\obj\Debug\netcoreapp3.1\Testinterface1.genruntimeconfig.cache
