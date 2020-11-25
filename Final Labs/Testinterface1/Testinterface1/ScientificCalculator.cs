@@ -7,5 +7,6 @@ namespace Testinterface1
      interface  ScientificCalculator
     {
         int XtoY(int x, int y);
+        int square(int x);
     }
 }

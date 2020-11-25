@@ -25,6 +25,10 @@ namespace Testinterface1
         {
             return x / y;
         }
+        public int square(int x)
+        {
+            return x * x;
+        }
         public int XtoY(int x, int y)
         {
             while (y != 0)
