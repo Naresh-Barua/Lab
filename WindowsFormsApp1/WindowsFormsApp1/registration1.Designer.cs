@@ -30,6 +30,9 @@ namespace WindowsFormsApp1
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.label4 = new System.Windows.Forms.Label();
@@ -38,24 +41,24 @@ namespace WindowsFormsApp1
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.comboBox4 = new System.Windows.Forms.ComboBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.comboBox6 = new System.Windows.Forms.ComboBox();
             this.label8 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.comboBox6 = new System.Windows.Forms.ComboBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.label12 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.comboBox7 = new System.Windows.Forms.ComboBox();
             this.label15 = new System.Windows.Forms.Label();
@@ -63,9 +66,6 @@ namespace WindowsFormsApp1
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -89,6 +89,116 @@ namespace WindowsFormsApp1
             this.panel1.Size = new System.Drawing.Size(412, 194);
             this.panel1.TabIndex = 10;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // comboBox3
+            // 
+            this.comboBox3.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Append;
+            this.comboBox3.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox3.FormattingEnabled = true;
+            this.comboBox3.Items.AddRange(new object[] {
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015",
+            "2014",
+            "2013",
+            "2012",
+            "2011",
+            "2010",
+            "2009",
+            "2008",
+            "2007",
+            "2006",
+            "2005",
+            "2004",
+            "2003",
+            "2002",
+            "2001",
+            "2000",
+            "1999",
+            "1998",
+            "1997",
+            "1996",
+            "1995",
+            "1994",
+            "1993",
+            "1992",
+            "1991",
+            "1990"});
+            this.comboBox3.Location = new System.Drawing.Point(291, 102);
+            this.comboBox3.Name = "comboBox3";
+            this.comboBox3.Size = new System.Drawing.Size(64, 21);
+            this.comboBox3.TabIndex = 20;
+            this.comboBox3.Text = "Year";
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Append;
+            this.comboBox2.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31"});
+            this.comboBox2.Location = new System.Drawing.Point(232, 102);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(53, 21);
+            this.comboBox2.TabIndex = 19;
+            this.comboBox2.Text = "Date";
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Append;
+            this.comboBox1.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "June",
+            "July",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"});
+            this.comboBox1.Location = new System.Drawing.Point(150, 102);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(76, 21);
+            this.comboBox1.TabIndex = 18;
+            this.comboBox1.Text = "Month";
             // 
             // radioButton2
             // 
@@ -170,110 +280,6 @@ namespace WindowsFormsApp1
             this.label1.TabIndex = 10;
             this.label1.Text = "First Name";
             // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            "Jan",
-            "Feb",
-            "Mar",
-            "Apr",
-            "May",
-            "June",
-            "July",
-            "Aug",
-            "Sep",
-            "Oct",
-            "Nov",
-            "Dec"});
-            this.comboBox1.Location = new System.Drawing.Point(150, 102);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(76, 21);
-            this.comboBox1.TabIndex = 18;
-            this.comboBox1.Text = "Month";
-            // 
-            // comboBox2
-            // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15",
-            "16",
-            "17",
-            "18",
-            "19",
-            "20",
-            "21",
-            "22",
-            "23",
-            "24",
-            "25",
-            "26",
-            "27",
-            "28",
-            "29",
-            "30",
-            "31"});
-            this.comboBox2.Location = new System.Drawing.Point(232, 102);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(53, 21);
-            this.comboBox2.TabIndex = 19;
-            this.comboBox2.Text = "Date";
-            // 
-            // comboBox3
-            // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Items.AddRange(new object[] {
-            "2020",
-            "2019",
-            "2018",
-            "2017",
-            "2016",
-            "2015",
-            "2014",
-            "2013",
-            "2012",
-            "2011",
-            "2010",
-            "2009",
-            "2008",
-            "2007",
-            "2006",
-            "2005",
-            "2004",
-            "2003",
-            "2002",
-            "2001",
-            "2000",
-            "1999",
-            "1998",
-            "1997",
-            "1996",
-            "1995",
-            "1994",
-            "1993",
-            "1992",
-            "1991",
-            "1990"});
-            this.comboBox3.Location = new System.Drawing.Point(291, 102);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(64, 21);
-            this.comboBox3.TabIndex = 20;
-            this.comboBox3.Text = "Year";
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -310,6 +316,62 @@ namespace WindowsFormsApp1
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(412, 211);
             this.panel2.TabIndex = 13;
+            // 
+            // comboBox4
+            // 
+            this.comboBox4.FormattingEnabled = true;
+            this.comboBox4.Items.AddRange(new object[] {
+            "Pepe",
+            "Muajja",
+            "Rocco",
+            "Jerry"});
+            this.comboBox4.Location = new System.Drawing.Point(150, 178);
+            this.comboBox4.Name = "comboBox4";
+            this.comboBox4.Size = new System.Drawing.Size(205, 21);
+            this.comboBox4.TabIndex = 24;
+            this.comboBox4.Text = "Choose an ans";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(32, 178);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(104, 21);
+            this.label7.TabIndex = 23;
+            this.label7.Text = "Security Ans";
+            // 
+            // textBox5
+            // 
+            this.textBox5.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.textBox5.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox5.Location = new System.Drawing.Point(150, 92);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(205, 30);
+            this.textBox5.TabIndex = 22;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(32, 101);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(104, 21);
+            this.label11.TabIndex = 21;
+            this.label11.Text = "Re type pass";
+            // 
+            // comboBox6
+            // 
+            this.comboBox6.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Append;
+            this.comboBox6.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.comboBox6.FormattingEnabled = true;
+            this.comboBox6.Items.AddRange(new object[] {
+            "What is your pet name?"});
+            this.comboBox6.Location = new System.Drawing.Point(150, 144);
+            this.comboBox6.Name = "comboBox6";
+            this.comboBox6.Size = new System.Drawing.Size(205, 21);
+            this.comboBox6.TabIndex = 18;
+            this.comboBox6.Text = "Choose a question";
             // 
             // label8
             // 
@@ -360,79 +422,6 @@ namespace WindowsFormsApp1
             this.label10.Text = "Email";
             this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(32, 101);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(104, 21);
-            this.label11.TabIndex = 21;
-            this.label11.Text = "Re type pass";
-            // 
-            // textBox5
-            // 
-            this.textBox5.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.textBox5.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.Location = new System.Drawing.Point(150, 92);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(205, 30);
-            this.textBox5.TabIndex = 22;
-            // 
-            // comboBox6
-            // 
-            this.comboBox6.FormattingEnabled = true;
-            this.comboBox6.Items.AddRange(new object[] {
-            "Jan",
-            "Feb",
-            "Mar",
-            "Apr",
-            "May",
-            "June",
-            "July",
-            "Aug",
-            "Sep",
-            "Oct",
-            "Nov",
-            "Dec"});
-            this.comboBox6.Location = new System.Drawing.Point(150, 144);
-            this.comboBox6.Name = "comboBox6";
-            this.comboBox6.Size = new System.Drawing.Size(205, 21);
-            this.comboBox6.TabIndex = 18;
-            this.comboBox6.Text = "Choose a question";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(32, 178);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(104, 21);
-            this.label7.TabIndex = 23;
-            this.label7.Text = "Security Ans";
-            // 
-            // comboBox4
-            // 
-            this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Items.AddRange(new object[] {
-            "Jan",
-            "Feb",
-            "Mar",
-            "Apr",
-            "May",
-            "June",
-            "July",
-            "Aug",
-            "Sep",
-            "Oct",
-            "Nov",
-            "Dec"});
-            this.comboBox4.Location = new System.Drawing.Point(150, 178);
-            this.comboBox4.Name = "comboBox4";
-            this.comboBox4.Size = new System.Drawing.Size(205, 21);
-            this.comboBox4.TabIndex = 24;
-            this.comboBox4.Text = "Choose an ans";
-            // 
             // label12
             // 
             this.label12.AutoSize = true;
@@ -460,6 +449,35 @@ namespace WindowsFormsApp1
             this.panel3.Size = new System.Drawing.Size(412, 211);
             this.panel3.TabIndex = 15;
             // 
+            // textBox9
+            // 
+            this.textBox9.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.textBox9.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox9.Location = new System.Drawing.Point(150, 131);
+            this.textBox9.Name = "textBox9";
+            this.textBox9.Size = new System.Drawing.Size(205, 30);
+            this.textBox9.TabIndex = 27;
+            // 
+            // textBox6
+            // 
+            this.textBox6.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.textBox6.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox6.Location = new System.Drawing.Point(150, 167);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(205, 30);
+            this.textBox6.TabIndex = 26;
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.Location = new System.Drawing.Point(32, 173);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(59, 21);
+            this.label14.TabIndex = 25;
+            this.label14.Text = "Phone";
+            this.label14.Click += new System.EventHandler(this.label14_Click);
+            // 
             // label13
             // 
             this.label13.AutoSize = true;
@@ -473,6 +491,8 @@ namespace WindowsFormsApp1
             // 
             // comboBox7
             // 
+            this.comboBox7.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Append;
+            this.comboBox7.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
             this.comboBox7.FormattingEnabled = true;
             this.comboBox7.Items.AddRange(new object[] {
             "Dhaka",
@@ -484,7 +504,6 @@ namespace WindowsFormsApp1
             this.comboBox7.Name = "comboBox7";
             this.comboBox7.Size = new System.Drawing.Size(205, 21);
             this.comboBox7.TabIndex = 18;
-            this.comboBox7.Text = "Choose";
             this.comboBox7.SelectedIndexChanged += new System.EventHandler(this.comboBox7_SelectedIndexChanged);
             // 
             // label15
@@ -534,35 +553,6 @@ namespace WindowsFormsApp1
             this.label17.Size = new System.Drawing.Size(70, 21);
             this.label17.TabIndex = 10;
             this.label17.Text = "Address";
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(32, 173);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(59, 21);
-            this.label14.TabIndex = 25;
-            this.label14.Text = "Phone";
-            this.label14.Click += new System.EventHandler(this.label14_Click);
-            // 
-            // textBox6
-            // 
-            this.textBox6.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.textBox6.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.Location = new System.Drawing.Point(150, 167);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(205, 30);
-            this.textBox6.TabIndex = 26;
-            // 
-            // textBox9
-            // 
-            this.textBox9.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.textBox9.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox9.Location = new System.Drawing.Point(150, 131);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(205, 30);
-            this.textBox9.TabIndex = 27;
             // 
             // registration1
             // 

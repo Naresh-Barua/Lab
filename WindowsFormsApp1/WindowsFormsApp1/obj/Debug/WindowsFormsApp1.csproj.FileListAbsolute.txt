@@ -9,3 +9,4 @@ C:\Users\88018\Downloads\C#\LABS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Win
 C:\Users\88018\Downloads\C#\LABS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\88018\Downloads\C#\LABS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\88018\Downloads\C#\LABS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.registration1.resources
+C:\Users\88018\Downloads\C#\LABS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
